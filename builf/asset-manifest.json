@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/team-balkan/static/css/main.5f361e03.chunk.css",
+    "main.js": "/team-balkan/static/js/main.9d02fbfa.chunk.js",
+    "main.js.map": "/team-balkan/static/js/main.9d02fbfa.chunk.js.map",
+    "runtime-main.js": "/team-balkan/static/js/runtime-main.8ae64d37.js",
+    "runtime-main.js.map": "/team-balkan/static/js/runtime-main.8ae64d37.js.map",
+    "static/js/2.56d36bfc.chunk.js": "/team-balkan/static/js/2.56d36bfc.chunk.js",
+    "static/js/2.56d36bfc.chunk.js.map": "/team-balkan/static/js/2.56d36bfc.chunk.js.map",
+    "index.html": "/team-balkan/index.html",
+    "precache-manifest.67133b8bbe35c434208390ddbcc7b0eb.js": "/team-balkan/precache-manifest.67133b8bbe35c434208390ddbcc7b0eb.js",
+    "service-worker.js": "/team-balkan/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/team-balkan/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.56d36bfc.chunk.js.LICENSE.txt": "/team-balkan/static/js/2.56d36bfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae64d37.js",
+    "static/js/2.56d36bfc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9d02fbfa.chunk.js"
+  ]
+}

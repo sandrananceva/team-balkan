@@ -4,8 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Sana iz back to bussinesssss
-     reactttttttttttttttttttt
+     Sana iz back 
      <p>shajhsajshajshaj</p>
     </div>
   );
