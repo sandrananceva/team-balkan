@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Sana iz back 
+     Sana iz back   uste neso da se dodade
      <p>shajhsajshajshaj</p>
     </div>
   );
