@@ -1,11 +1,10 @@
-import React from 'react';
-import './App.css';
-
+import React from "react";
+import "./App.css";
+import Homepage from "./pages/Homepage/index";
 function App() {
   return (
     <div className="App">
-     Sana iz back   uste neso da se dodade
-     <p>shajhsajshajshaj</p>
+      <Homepage />
     </div>
   );
 }
