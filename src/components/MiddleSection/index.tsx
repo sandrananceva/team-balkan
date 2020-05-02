@@ -1,5 +1,4 @@
 import React from 'react'
-import styled from 'styled-components'
 import {
   MiddleSectionBackground,
   MiddleSectionInnerBackground,
@@ -45,7 +44,6 @@ const MiddleSection = () => (
           </TextParagraphGrid>
         </TextGrid>
         <IconGrid src={optionicon} side="left" />
-
         <MainGrid />
         <IconGrid src={contracticon} side="right" />
         <TextGrid>
