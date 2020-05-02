@@ -2,13 +2,16 @@ import React from "react";
 import styled from "styled-components";
 
 const NavBarContainer = styled.div`
-  display: flex;
+  width: 100%;
+  top: 0;
+  height: 80px;
+  background-color: white;
+`;
+const NavBarInnerContainer= styled.div`
+display: flex;
   width: 80%;
   margin: auto;
   flex-direction: row;
-  position: sticky;
-  top: 0;
-  height: 80px;
   align-items: baseline;
 `;
 
@@ -44,6 +47,7 @@ const NavText = styled.p`
 
 const NavBar = () => (
   <NavBarContainer>
+    <NavBarInnerContainer>
     <NavBarInnerLeftContainer>
       <LogoText>TEAM BALKAN</LogoText>
     </NavBarInnerLeftContainer>
@@ -52,6 +56,7 @@ const NavBar = () => (
       <NavText>FIND A MATCH</NavText>
       <NavText>ABOUT US</NavText>
     </NavBarInnerRightContainer>
+    </NavBarInnerContainer>
   </NavBarContainer>
 );
 

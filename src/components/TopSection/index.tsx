@@ -32,7 +32,6 @@ const TopSection = () => (
           <ShowAvanatar>
             <AvatarName>FirstName Secondname, Company</AvatarName>
           </ShowAvanatar>
-          >
         </TopSectionInnerRightContainer>
       </TopSectionInnerContainer>
     </TopSectionContainer>
