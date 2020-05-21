@@ -11,11 +11,6 @@ import {
   LogoContainer,
   NameHeadline,
   Description,
-  DesignButton,
-  DevelopmentButton,
-  CategoryInnerContainer,
-  CategoryContainer,
-  CategoryHeadline,
 } from '../../styles/styles'
 
 const data1 = ['Allocate', 'Netcetera', 'Sorsix', 'InPlayer']
@@ -37,13 +32,6 @@ const BottomSection = () => (
         </CompanyItemContainer>
       ))}
     </CompanyListContainer>
-    <CategoryContainer>
-      <CategoryHeadline>Explore teams by category</CategoryHeadline>
-      <CategoryInnerContainer>
-        <DevelopmentButton>Development Teams</DevelopmentButton>
-        <DesignButton>Design Teams</DesignButton>
-      </CategoryInnerContainer>
-    </CategoryContainer>
   </BottomSectionContainer>
 )
 

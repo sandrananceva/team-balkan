@@ -96,7 +96,6 @@ export const MiddleSectionBackground = styled.div`
   width: 100%;
   height: 150vh;
   background-color: #e6e6e6;
-  margin-top: -75px;
 `
 export const MiddleSectionInnerBackground = styled.div`
   width: 60%;
@@ -176,7 +175,7 @@ export const BottomSectionContainer = styled.div`
   margin: auto;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 60vh;
 `
 
 export const BottomHeadlineContainer = styled.div`
@@ -224,8 +223,11 @@ export const Description = styled.p`
   opacity: 0.6;
 `
 export const CategoryContainer = styled.div`
+  width: 70%;
+  margin: auto;
   display: flex;
   flex-direction: column;
+  padding-bottom: 4.7rem;
 `
 export const CategoryHeadline = styled.p`
   font-size: 24px;
