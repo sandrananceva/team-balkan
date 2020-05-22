@@ -5,13 +5,15 @@ import NavBar from './components/Navbar'
 import Footer from './components/Footer'
 import Category from './components/Category'
 import Teamspage from './pages/Teamspage'
+import AdminPage from './pages/AdminPage'
 function App() {
   return (
     <div className="App">
-      <NavBar />
+      {/* <NavBar />
       <Teamspage />
       <Category />
-      <Footer />
+      <Footer /> */}
+      <AdminPage />
     </div>
   )
 }
